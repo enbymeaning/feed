@@ -1,9 +1,26 @@
 [
   {
+    "type": "video",
+    "platform": "YouTube",
+    "title": "photography by dollie kyarn ♡",
+    "creator": "Ethel Cain",
+    "creatorHandle": "Ethel Cain",
+    "creatorUrl": "https://youtube.com/channel/UCdRxl_zUkt98NQtGaVvdqBQ",
+    "videoId": "mmOQtxBha9Y",
+    "tags": [
+      "Video"
+    ],
+    "date": "2025-08-08",
+    "excerpt": ""
+  },
+  {
     "type": "blog",
     "title": "Why 'enby' isn't a monolith — notes from six years of this site",
     "excerpt": "A running list of the things I got wrong early on, and what changed my mind.",
-    "tags": ["Essay", "Site Notes"],
+    "tags": [
+      "Essay",
+      "Site Notes"
+    ],
     "date": "Jul 20",
     "thumb": "https://picsum.photos/seed/enby1/700/500",
     "fullUrl": "#"
@@ -16,7 +33,9 @@
     "creatorHandle": "@julesmakesfilms",
     "creatorUrl": "https://youtube.com/@julesmakesfilms",
     "videoId": "dQw4w9WgXcQ",
-    "tags": ["Short Film"],
+    "tags": [
+      "Short Film"
+    ],
     "date": "Jul 18",
     "excerpt": "A wordless 6-minute short about a trans/nonbinary teen's first day somewhere new."
   },
@@ -28,7 +47,10 @@
     "creatorHandle": "rivervoss",
     "creatorUrl": "https://rivervoss.bandcamp.com",
     "bandcampSrc": "https://bandcamp.com/EmbeddedPlayer/album=1/size=large/bgcol=ffffff/linkcol=7c5cd8/tracklist=false/artwork=small/transparent=true/",
-    "tags": ["Music", "EP"],
+    "tags": [
+      "Music",
+      "EP"
+    ],
     "date": "Jul 16",
     "excerpt": "Four tracks recorded over one winter. Opens with a voice memo, ends with silence."
   },
@@ -40,7 +62,9 @@
     "creatorHandle": "@samokr",
     "creatorUrl": "https://www.tiktok.com/@tiktok",
     "tiktokUrl": "https://www.tiktok.com/@tiktok/video/7351234567890123456",
-    "tags": ["Short-form"],
+    "tags": [
+      "Short-form"
+    ],
     "date": "Jul 15",
     "excerpt": "60 seconds on why community, not certainty, is the point."
   },
@@ -49,7 +73,9 @@
     "title": "Handmade pins from Dysphoric Goods",
     "excerpt": "Enamel pins designed by nonbinary artists. 10% of this month's sales go to a trans mutual aid fund.",
     "sponsorLabel": "Sponsored",
-    "tags": ["Shop"],
+    "tags": [
+      "Shop"
+    ],
     "date": "",
     "thumb": "https://picsum.photos/seed/enbyad1/700/500",
     "adLink": "#"
@@ -58,7 +84,10 @@
     "type": "blog",
     "title": "A running list: enby musicians to know in 2026",
     "excerpt": "Updated quarterly. This round adds three artists I found through this exact feed.",
-    "tags": ["List", "Music"],
+    "tags": [
+      "List",
+      "Music"
+    ],
     "date": "Jul 12",
     "thumb": "https://picsum.photos/seed/enby2/700/500",
     "fullUrl": "#"
@@ -71,7 +100,9 @@
     "creatorHandle": "@rencastillofilms",
     "creatorUrl": "https://youtube.com/@rencastillofilms",
     "videoId": "dQw4w9WgXcQ",
-    "tags": ["Documentary"],
+    "tags": [
+      "Documentary"
+    ],
     "date": "Jul 10",
     "excerpt": "Ren spent a year following a ballroom house in three cities."
   },
@@ -79,7 +110,9 @@
     "type": "blog",
     "title": "On being asked 'so what do I call you' for the 500th time",
     "excerpt": "It's a fair question. Here's the version of my answer that's stopped feeling exhausting.",
-    "tags": ["Essay"],
+    "tags": [
+      "Essay"
+    ],
     "date": "Jul 8",
     "thumb": "https://picsum.photos/seed/enby3/700/500",
     "fullUrl": "#"
@@ -92,7 +125,10 @@
     "creatorHandle": "mothiron",
     "creatorUrl": "https://mothiron.bandcamp.com",
     "bandcampSrc": "https://bandcamp.com/EmbeddedPlayer/album=2/size=large/bgcol=ffffff/linkcol=7c5cd8/tracklist=false/artwork=small/transparent=true/",
-    "tags": ["Music", "Single"],
+    "tags": [
+      "Music",
+      "Single"
+    ],
     "date": "Jul 6",
     "excerpt": "One song, written the week they came out to their dad."
   },
@@ -104,7 +140,10 @@
     "creatorHandle": "@theobianchi",
     "creatorUrl": "https://www.tiktok.com/@tiktok",
     "tiktokUrl": "https://www.tiktok.com/@tiktok/video/7351234567890123457",
-    "tags": ["Short-form", "Tips"],
+    "tags": [
+      "Short-form",
+      "Tips"
+    ],
     "date": "Jul 4",
     "excerpt": "Practical, funny, and filmed in a costume shop between fittings."
   },
@@ -112,7 +151,9 @@
     "type": "blog",
     "title": "Reader mail: 'how do I find nonbinary community offline'",
     "excerpt": "Three readers asked variations of this in one week, so here's a real answer.",
-    "tags": ["Community"],
+    "tags": [
+      "Community"
+    ],
     "date": "Jul 2",
     "thumb": "https://picsum.photos/seed/enby4/700/500",
     "fullUrl": "#"
@@ -125,7 +166,9 @@
     "creatorHandle": "@kitoyelaranmusic",
     "creatorUrl": "https://youtube.com/@kitoyelaranmusic",
     "videoId": "dQw4w9WgXcQ",
-    "tags": ["Music Video"],
+    "tags": [
+      "Music Video"
+    ],
     "date": "Jun 29",
     "excerpt": "Shot entirely on 16mm, directed by the artist."
   }
