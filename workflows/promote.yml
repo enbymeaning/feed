@@ -1,0 +1,32 @@
+name: Promote a pending item to the live feed
+
+on:
+  workflow_dispatch:
+    inputs:
+      index:
+        description: "Index of the item in pending-review.json (open the file in the repo to find it)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Promote item
+        run: node promote.js "${{ inputs.index }}"
+
+      - name: Commit changes
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feed-data.json pending-review.json
+          git commit -m "Promote pending item ${{ inputs.index }}"
+          git push

@@ -1,0 +1,132 @@
+[
+  {
+    "type": "blog",
+    "title": "Why 'enby' isn't a monolith — notes from six years of this site",
+    "excerpt": "A running list of the things I got wrong early on, and what changed my mind.",
+    "tags": ["Essay", "Site Notes"],
+    "date": "Jul 20",
+    "thumb": "https://picsum.photos/seed/enby1/700/500",
+    "fullUrl": "#"
+  },
+  {
+    "type": "video",
+    "platform": "YouTube",
+    "title": "\"Static\" — a short film by Jules Okafor",
+    "creator": "Jules Okafor",
+    "creatorHandle": "@julesmakesfilms",
+    "creatorUrl": "https://youtube.com/@julesmakesfilms",
+    "videoId": "dQw4w9WgXcQ",
+    "tags": ["Short Film"],
+    "date": "Jul 18",
+    "excerpt": "A wordless 6-minute short about a trans/nonbinary teen's first day somewhere new."
+  },
+  {
+    "type": "audio",
+    "platform": "Bandcamp",
+    "title": "Halcyon EP — River Voss",
+    "creator": "River Voss",
+    "creatorHandle": "rivervoss",
+    "creatorUrl": "https://rivervoss.bandcamp.com",
+    "bandcampSrc": "https://bandcamp.com/EmbeddedPlayer/album=1/size=large/bgcol=ffffff/linkcol=7c5cd8/tracklist=false/artwork=small/transparent=true/",
+    "tags": ["Music", "EP"],
+    "date": "Jul 16",
+    "excerpt": "Four tracks recorded over one winter. Opens with a voice memo, ends with silence."
+  },
+  {
+    "type": "social",
+    "platform": "TikTok",
+    "title": "\"gender is a group project\" — quick take",
+    "creator": "Sam Okonkwo-Reyes",
+    "creatorHandle": "@samokr",
+    "creatorUrl": "https://www.tiktok.com/@tiktok",
+    "tiktokUrl": "https://www.tiktok.com/@tiktok/video/7351234567890123456",
+    "tags": ["Short-form"],
+    "date": "Jul 15",
+    "excerpt": "60 seconds on why community, not certainty, is the point."
+  },
+  {
+    "type": "ad",
+    "title": "Handmade pins from Dysphoric Goods",
+    "excerpt": "Enamel pins designed by nonbinary artists. 10% of this month's sales go to a trans mutual aid fund.",
+    "sponsorLabel": "Sponsored",
+    "tags": ["Shop"],
+    "date": "",
+    "thumb": "https://picsum.photos/seed/enbyad1/700/500",
+    "adLink": "#"
+  },
+  {
+    "type": "blog",
+    "title": "A running list: enby musicians to know in 2026",
+    "excerpt": "Updated quarterly. This round adds three artists I found through this exact feed.",
+    "tags": ["List", "Music"],
+    "date": "Jul 12",
+    "thumb": "https://picsum.photos/seed/enby2/700/500",
+    "fullUrl": "#"
+  },
+  {
+    "type": "video",
+    "platform": "YouTube",
+    "title": "Behind the mask: a documentary short",
+    "creator": "Ren Castillo",
+    "creatorHandle": "@rencastillofilms",
+    "creatorUrl": "https://youtube.com/@rencastillofilms",
+    "videoId": "dQw4w9WgXcQ",
+    "tags": ["Documentary"],
+    "date": "Jul 10",
+    "excerpt": "Ren spent a year following a ballroom house in three cities."
+  },
+  {
+    "type": "blog",
+    "title": "On being asked 'so what do I call you' for the 500th time",
+    "excerpt": "It's a fair question. Here's the version of my answer that's stopped feeling exhausting.",
+    "tags": ["Essay"],
+    "date": "Jul 8",
+    "thumb": "https://picsum.photos/seed/enby3/700/500",
+    "fullUrl": "#"
+  },
+  {
+    "type": "audio",
+    "platform": "Bandcamp",
+    "title": "Sing to the Static — Moth & Iron",
+    "creator": "Moth & Iron",
+    "creatorHandle": "mothiron",
+    "creatorUrl": "https://mothiron.bandcamp.com",
+    "bandcampSrc": "https://bandcamp.com/EmbeddedPlayer/album=2/size=large/bgcol=ffffff/linkcol=7c5cd8/tracklist=false/artwork=small/transparent=true/",
+    "tags": ["Music", "Single"],
+    "date": "Jul 6",
+    "excerpt": "One song, written the week they came out to their dad."
+  },
+  {
+    "type": "social",
+    "platform": "TikTok",
+    "title": "packing tips from a costume designer",
+    "creator": "Theo Bianchi",
+    "creatorHandle": "@theobianchi",
+    "creatorUrl": "https://www.tiktok.com/@tiktok",
+    "tiktokUrl": "https://www.tiktok.com/@tiktok/video/7351234567890123457",
+    "tags": ["Short-form", "Tips"],
+    "date": "Jul 4",
+    "excerpt": "Practical, funny, and filmed in a costume shop between fittings."
+  },
+  {
+    "type": "blog",
+    "title": "Reader mail: 'how do I find nonbinary community offline'",
+    "excerpt": "Three readers asked variations of this in one week, so here's a real answer.",
+    "tags": ["Community"],
+    "date": "Jul 2",
+    "thumb": "https://picsum.photos/seed/enby4/700/500",
+    "fullUrl": "#"
+  },
+  {
+    "type": "video",
+    "platform": "YouTube",
+    "title": "Music video: \"Not a Phase\" — Kit Oyelaran",
+    "creator": "Kit Oyelaran",
+    "creatorHandle": "@kitoyelaranmusic",
+    "creatorUrl": "https://youtube.com/@kitoyelaranmusic",
+    "videoId": "dQw4w9WgXcQ",
+    "tags": ["Music Video"],
+    "date": "Jun 29",
+    "excerpt": "Shot entirely on 16mm, directed by the artist."
+  }
+]
