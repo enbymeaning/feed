@@ -31,7 +31,8 @@ const FEED_FILE = path.join(__dirname, "feed-data.json");
 
 // Maintain this list yourself — this is curation, not open discovery.
 const CHANNEL_IDS = [
-  // "UCdRxl_zUkt98NQtGaVvdqBQ",  // e.g. a filmmaker or musician you follow
+UCdRxl_zUkt98NQtGaVvdqBQ,
+UChoVRTRlg8XYjsj-P5Wz82g,
 ];
 
 const MAX_PER_CHANNEL = 5;
