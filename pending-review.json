@@ -133,5 +133,20 @@
     "date": "2018-02-05",
     "excerpt": "",
     "_note": "Auto-pulled from channel allowlist — write a real excerpt before promoting."
+  },
+  {
+    "type": "video",
+    "platform": "YouTube",
+    "title": "peanuts",
+    "creator": "Ethel Cain",
+    "creatorHandle": "Ethel Cain",
+    "creatorUrl": "https://youtube.com/channel/UCdRxl_zUkt98NQtGaVvdqBQ",
+    "videoId": "ptcpcItrfEM",
+    "tags": [
+      "Video"
+    ],
+    "date": "2026-01-28",
+    "excerpt": "",
+    "_note": "Auto-pulled from channel allowlist — write a real excerpt before promoting."
   }
 ]
